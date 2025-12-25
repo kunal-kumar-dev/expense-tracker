@@ -5,8 +5,7 @@ The application is fully installable, works offline, and focuses on clean archit
 
 **Author:** **Kunal Kumar**
 
-LIVE:- https://expense-tracker-by-kunal-kumar-rajak.netlify.app/
-
+LIVE:- https://expense-tracker-by-kunal-kumar-dev.netlify.app/
 ---
 
 ## 🚀 Features
@@ -90,7 +89,7 @@ expense-tracker/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kunal-Kumar-Rajak/expense-tracker.git
+   git clone https://github.com/kunal-kumar-dev/expense-tracker.git
    ```
 2. Open the project using **Live Server**
 3. Install the app from the browser address bar or menu
@@ -123,9 +122,9 @@ expense-tracker/
 Computer Science & Engineering Student  
 Frontend & Web Development Enthusiast
 
-- 🔗 GitHub: https://github.com/Kunal-Kumar-Rajak  
-- 🔗 LinkedIn: https://linkedin.com/in/kunal-kumar-rajak  
-- 🌐 Portfolio: https://kunal-kumar-rajak-portfolio.netlify.app/
+- 🔗 GitHub: https://github.com/kunal-kumar-dev
+- 🔗 LinkedIn: https://www.linkedin.com/in/kunal-kumar-dev/
+- 🌐 Portfolio: https://kunal-kumar-dev-portfolio.netlify.app/
 
 ---
 
